@@ -1,4 +1,4 @@
-importFrom("stats", "nlme", "approx", "model.frame")
+importFrom("stats", "approx", "model.frame")
 export(smspline)
 export(smspline.v)
 export(approx.Z)
