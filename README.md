@@ -5,7 +5,7 @@ To install from GitHub:
 
 `library("devtools"); install_github("agalecki/lmeSplines")`
 
-Run example:
+Run example from `smspline` documentation:
 
 ````
 library(lmeSplines)
