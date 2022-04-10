@@ -10,8 +10,4 @@ Depends: nlme(>= 3.1-29)
 License: GPL (>= 2)
 Repository: CRAN
 Date/Publication: 2013-08-04 02:08:38
-Repository/R-Forge/Project: nlmeu
-Repository/R-Forge/Revision: 122
-Repository/R-Forge/DateTimeStamp: 2013-08-02 14:37:01
-Packaged: 2013-08-02 18:20:41 UTC; rforge
 NeedsCompilation: no
