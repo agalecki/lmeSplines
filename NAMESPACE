@@ -1,3 +1,4 @@
+import(nlme)
 importFrom("stats", "approx", "model.frame")
 export(smspline)
 export(smspline.v)
