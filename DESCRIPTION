@@ -9,5 +9,4 @@ Description: Adds smoothing spline modelling capability to nlme. Fits
 Depends: nlme(>= 3.1-29)
 License: GPL (>= 2)
 Repository: CRAN
-Date/Publication: 2013-08-04 02:08:38
 NeedsCompilation: no
