@@ -1,6 +1,6 @@
 Package: lmeSplines
-Version: 1.1-11
-Title: Add Smoothing Spline Modelling Capability to Nlme
+Version: 1.1-12
+Title: Add Smoothing Spline Modelling Capability to `nlme`
 Author: Rod Ball <rod.ball@scionresearch.com>
 Maintainer: Andrzej Galecki <agalecki@umich.edu>
 Description: Adds smoothing spline modelling capability to nlme. Fits
