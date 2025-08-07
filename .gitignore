@@ -1,0 +1,89 @@
+# R-specific files
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+.Rprofile
+*.Rds
+*.Rout
+*.Rout.save
+
+# Package build and check artifacts
+*.tar.gz
+*.tgz
+*.zip
+*.Rcheck/
+src/*.o
+src/*.so
+src/*.dll
+CRAN-RELEASE
+
+# Documentation and temporary files
+man/*.Rd~
+vignettes/*.html
+vignettes/*.pdf
+inst/doc/
+*.log
+*.out
+*.aux
+*.bak
+*.swp
+
+# Test and coverage artifacts
+tests/testthat.Rout
+tests/*.Rout
+covr/
+coverage/
+
+# R Markdown and Bookdown
+*_cache/
+/cache/
+*_files/
+*.utf8.md
+*.knit.md
+
+# Editor/IDE files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows-specific
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
